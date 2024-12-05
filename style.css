@@ -1,0 +1,131 @@
+.nav1{
+  padding-top: 10px; 
+  height: 40px;
+  color: antiquewhite;
+  background-color: rgb(38, 38, 221);
+}
+.bi1{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: small;
+  margin-left: 10vh;
+}
+.nav{
+  position: sticky;
+  width: 100%;
+  z-index: 100;
+  background-color: white;
+  top: 0;
+  flex-wrap: nowrap;
+  justify-content: center;
+  justify-content: space-around;
+    font-size: 20px; 
+    align-items: center;
+    color: wheat;
+ 
+    text-decoration: none;
+    height: 20vh;
+  }
+.home{
+  margin-left:vh;
+    text-decoration: none;
+    color: black;
+}
+.sec1{
+    text-align: center;
+    margin-bottom: 10vh;
+    font-size: 3vh;
+
+}
+.main{
+  margin-top: 3vh;
+    align-items: center;
+}
+.main1{
+    margin-left: 43vh;
+    font-size: 5vh;
+}
+.main2{
+    margin-left: 29vh;
+}
+/* From Uiverse.io by gksckt */ 
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .btn {
+    width: 300px;
+    height: 120px;
+    font-size: 18px;
+    background: #fff;
+    border: none;
+    border-radius: 50px;
+    color: rgb(228, 18, 18);
+    outline: none;
+    cursor: pointer;
+    transition: all 0.4s;
+  }
+  
+  .btn:hover {
+    box-shadow: inset 0 0 0 4px #ef476f, 
+                inset 0 0 0 8px #ffd166, 
+                inset 0 0 0 12px #06d6a0,
+                inset 0 0 0 16px #118ab2;
+    background: #073b4c;
+    color: #fff;
+  }
+  .span1{
+    color: white;
+    font-size: 3vh;
+    background-color: blue;
+  }
+
+.read{
+  text-decoration: none;
+}
+.bi1{
+  font-size: 3vh;
+  margin-right: 8vh;
+}
+.bii{
+  font-size: 3vh;
+}
+.bi{
+  font-size: 7vh;
+}
+.main3{
+   text-align: center;
+ }
+.container{
+  margin-bottom: 5vh;
+}
+.img{
+  margin-top: 10px;
+}
+.bag{
+
+  background-color: black;
+}
+.link{
+  color: silver;
+  text-decoration: none;
+}
+.link1{
+  color: silver;
+  text-decoration: none;
+}
+.link2{
+  color: silver;
+}
+.heading{
+
+  color: #09a2d4;
+}
+.sec2{
+  background-color: rgb(245, 245, 245);
+  text-align: center;
+}
+.para{
+  color: blue;
+}
